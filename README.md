@@ -1,6 +1,6 @@
 ### Dan Dascalescu
 
-This is my personal profile, where I keep my main projects and repos. (I'm currently sotring through them, and old projects to add)  
+This is my personal profile, where I keep my main projects and repos. (I'm currently sorting through them, and adding old projects, so it's a bit barren at the moment)  
   
 See also my orgs:
  - [@dandascalescu-code](https://github.com/dandascalescu-code) for misc. code unrelated to a project
